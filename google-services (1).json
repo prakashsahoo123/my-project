@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369088048185",
+    "project_id": "dream-11-a9103",
+    "storage_bucket": "dream-11-a9103.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369088048185:android:9a0e4c9ceb517df03eb1e8",
+        "android_client_info": {
+          "package_name": "com.company.Dream11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNAK1NcW9hqazzfcE63uEtegGOw5imFOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
